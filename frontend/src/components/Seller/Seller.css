@@ -1,0 +1,22 @@
+.signupform
+{
+    background-origin: padding-box;
+    border-color: black;
+}
+
+.a-container {
+    min-width: 100%;
+    /* padding: 14px 48px 10px 48px; */
+    /* margin: auto; */
+}
+
+.modal-backdrop
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: none;
+}
